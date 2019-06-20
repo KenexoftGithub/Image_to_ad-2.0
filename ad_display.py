@@ -80,6 +80,7 @@ for i in age:
 print("\na=",a)
 #print('age group = ',reqage)
 temp = 0
+pos = 0
 #loop to get the highly populated age group
 for i in range(8):
     if temp<a[i]:
