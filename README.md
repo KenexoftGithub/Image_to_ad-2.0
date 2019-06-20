@@ -2,7 +2,7 @@
 
 #### Python
 ```
-python3 upload.py 
+python3 upload.py > out.txt
 ```
 
 Requirements: tensorflow(1.13.1), opencv-python(4.1.0), numpy(1.16.3), os, pillow(PIL), caffe , pip version > 3.4.2 , pandas
